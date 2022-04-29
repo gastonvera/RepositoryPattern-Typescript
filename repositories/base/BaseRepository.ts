@@ -1,5 +1,5 @@
 //importo todo lo que necesito de mongodb
-import { MongoClient, Db, Collection, ObjectId } from 'mongodb';
+import {Db, Collection, ObjectId } from 'mongodb';
 
 //importo todo lo que necesito de la clase generica
 import { ICRUD } from "../intefaces/ICRUD";
